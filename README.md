@@ -21,4 +21,3 @@ Gives information of a user
 # Discord Server:
 ## https://discord.gg/kE9vk9Zeuf
 a
-
